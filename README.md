@@ -32,12 +32,8 @@
 
 ### Manual Setup
 
-1. Clone the repository:
+1. 
 
-   ```bash
-   git clone https://github.com/uurp/DiscordUsernameChecker.git
-   cd DiscordUsernameChecker
-   ```
 
 2. Install the required Python packages:
 
